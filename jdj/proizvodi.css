@@ -1,0 +1,15 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-image: url(marble.jpg);
+background-size: cover;
+background-size: cover;
+background-position:center center;
+    height: 100vh;
+font-family: poppins;
+font-weight: 600;
+font-size:19px;
+}
